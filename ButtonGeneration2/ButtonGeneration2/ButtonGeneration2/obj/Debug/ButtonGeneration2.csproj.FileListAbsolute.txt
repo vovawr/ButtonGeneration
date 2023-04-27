@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\obj\Debug\ButtonGeneration2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\obj\Debug\ButtonGeneration2.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\obj\Debug\ButtonGeneration2_MarkupCompile.cache
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\obj\Debug\ButtonGeneration2_MarkupCompile.lref
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\bin\Debug\ButtonGeneration2.exe.config
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\bin\Debug\ButtonGeneration2.exe
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\bin\Debug\ButtonGeneration2.pdb
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\obj\Debug\ButtonGeneration2.g.resources
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\obj\Debug\ButtonGeneration2.Properties.Resources.resources
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\obj\Debug\ButtonGeneration2.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\obj\Debug\ButtonGeneration2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\obj\Debug\ButtonGeneration2.exe
+C:\Users\admin\source\repos\ButtonGeneration2\ButtonGeneration2\ButtonGeneration2\obj\Debug\ButtonGeneration2.pdb
